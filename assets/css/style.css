@@ -1,0 +1,48 @@
+/*Exo1*/
+section:nth-of-type(1) button {
+    display: block;
+    margin: 20px 0 0 0;
+}
+
+section:nth-of-type(1) textarea {
+    width: 200px;
+    height: 60px;
+    margin: 10px;
+    float: left;
+    font‐size: 18px;
+}
+section:nth-of-type(1) p {
+    clear: left;
+    font‐weight: bold;
+    font‐size: 18px;
+    color:green;
+    margin: 5px 10px 0 10px;
+    padding: 2px;
+}
+/*Exo2*/
+#exo2 p {
+    margin: 8px;
+    font‐size: 16px;
+}
+#exo2 .w3r_font_color{
+    color: red;
+}
+#exo2 .w3r_background {
+    background: yellow;
+}
+
+
+
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+
+.size{
+    font-size: 30px;
+}
